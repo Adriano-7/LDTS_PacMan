@@ -1,0 +1,9 @@
+out
+.idea
+*.iml
+build/
+.gradle/
+gradle/
+gradlew.bat
+gradlew
+.jqwik-database
